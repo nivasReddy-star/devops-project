@@ -1,8 +1,17 @@
 # DevOps Project
 
-This repository contains:
-- DevOps notes
-- Git practice
-- Basic automation examples
+## 📌 About
+This repository is created for learning and practicing Git and DevOps concepts.
 
-Created by: Nivas Reddy
+## 🛠 Tools Used
+- Git
+- GitHub
+- Command Prompt
+
+## 📂 Project Structure
+- docs/ → Documentation files
+- scripts/ → Automation scripts
+- src/ → Source code
+
+## 👨‍💻 Author
+Nivas Reddy
